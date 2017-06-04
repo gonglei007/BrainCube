@@ -1,0 +1,81 @@
+This plugin provides the easy and  flexible functionality of Android native functions, including  in-app purchases, play service & native alerts. <br>
+<a href="http://goo.gl/VmIFVQ">Online Documentation </a> | <a href="http://goo.gl/JMCJck">Forum Thread </a> | <a href="http://goo.gl/MYLsbI">Playmaker Thread </a>
+<br>
+<strong> Source Code is Open! </strong> (eclipse  project included)    <br>
+Fully compatible with:   <br>
+<a href="https://www.assetstore.unity3d.com/#/content/7421">IOS Native</a>  <br>
+<a href="https://www.assetstore.unity3d.com/#/content/15066">Mobile Social Plugin</a>  <br>
+<a href="https://www.assetstore.unity3d.com/#/content/14835"> Google Mobile Ads SDK</a>  <br>
+<a href="https://www.assetstore.unity3d.com/#/content/11229">Google Play for IOS  </a>  <br>
+
+
+<br>
+
+<strong> Billing: </strong> <br>
+* Set Up instructions<br>
+* In-App purchases <br>
+* Fully documented and super easy to use  <br>
+
+<strong> Play Service: </strong> (Android 2.3+ required)<br>
+* Detailed set up instructions<br>
+* Google Cloud <br>
+* Leader-boards<br>
+* Achievements <br>
+* Retrieve  top or player center scores <br>
+* Play Service users names and avatars  <br>
+* Load Friend list <br>
+<strong> Game Gifting: </strong>  <br>
+* Sending a requests<br>
+* Handling requests using the default inbox UI <br>
+* Handling requests programmatically <br>
+* <a href="http://goo.gl/HDajku"> Full Documentation </a> <br>
+<strong> Google Mobile Ad:  </strong> (Android 2.3+ required) <br>
+* Set Up instructions<br>
+* All banners supported<br>
+* All banners events<br>
+* 9 Gravity options + ability to set custom pos<br>
+* Interstitials supported<br>
+* IAP Ads listener <br>
+* Fully Documented<br>
+<strong>Twitter:  </strong> <br>
+*  User Auntification <br>
+* Loading User Data<br>
+* Posting<br>
+* Posting with image<br>
+* Native Platfrom Posting<br>
+* Posting with auth check<br>
+<strong>Facebook:  </strong> <br>
+Provided facebook api as wrapper class around Unity Facebook SDK. With means all Unity Facebook SDK will be completely available for you.
+Wrapper include API for:<br>
+* User Auntification <br>
+* Loading User Data<br>
+* Posting<br>
+* Posting with image<br>
+* Native Platfrom Posting<br>
+* Posting with auth check<br>
+* App Request <br>
+* Loading friends information<br>
+<strong>Google Analytics:  </strong> <br>
+* Advanced Configuration <br>
+* Measuring Events<br>
+* Measuring In-App Payments<br>
+* User timings<br>
+* Fully Documented<br>
+<strong> More Features:  </strong> <br>
+* Editor Settings UI
+* Immersive Mode <br>
+* Push Notifications<br>
+* Local Notifications <br>
+* Toast Notifications <br>
+* Rate Pop-up <br>
+* Dialog Pop-up <br>
+* Message Pop-up <br>
+* Native Preloader <br>
+* ART mode support (starting from Unity 4.5) <br>
+* <a href= "http://goo.gl/PvPDYx"> PlayMaker Actions </a> <br>
+* <a href="https://www.assetstore.unity3d.com/#/content/7067">Flash Like Events</a> as gift  <br> <br>
+
+
+ <a href="http://goo.gl/to1jJ0">Documentation and Set Up Instruction</a>  <br><br>
+Old version (Android 2.2) avaliable up on request<br>
+<a href="https://www.assetstore.unity3d.com/#/publisher/2256">How to get support </a> 

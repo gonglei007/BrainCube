@@ -1,0 +1,610 @@
+#. extracted from Y:\Work\Project\memoryjoy-findblock-master\build/../output/localization/zh-Hans\loc-kit.csv
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-04-08 21:19+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: ﻿"#"
+msgid "app_name"
+msgstr "记住白块儿"
+
+#: #
+msgid "mode_name_0"
+msgstr "经典"
+
+#: #
+msgid "mode_name_1"
+msgstr "反转"
+
+#: #
+msgid "mode_name_2"
+msgstr "生存"
+
+#: #
+msgid "mode_name_3"
+msgstr "限时"
+
+#: #
+msgid "mode_name_4"
+msgstr "多彩"
+
+#: #
+msgid "mode_name_5"
+msgstr "21点"
+
+#: #
+msgid "mode_name_6"
+msgstr "单词"
+
+#: #
+msgid "mode_name_7"
+msgstr "猩猩"
+
+#: #
+msgid "mode_name_8"
+msgstr "双人"
+
+#: #
+msgid "mode_desc_0"
+msgstr "记住白块儿，点它！"
+
+#: #
+msgid "mode_desc_1"
+msgstr "不要点白块儿，切记！"
+
+#: #
+msgid "mode_desc_2"
+msgstr "生命为0游戏结束！"
+
+#: #
+msgid "mode_desc_3"
+msgstr "时间为0游戏结束！"
+
+#: #
+msgid "mode_desc_4"
+msgstr "点指定颜色的块儿！"
+
+#: #
+msgid "mode_desc_5"
+msgstr "记牌玩21点，你懂的！"
+
+#: #
+msgid "mode_desc_6"
+msgstr "按单词顺序点字母！"
+
+#: #
+msgid "mode_desc_7"
+msgstr "数字从小到大点击，黑块不算错误!"
+
+#: #
+msgid "mode_desc_8"
+msgstr "你一下，我一下，谁先点错谁出局!"
+
+#: #
+msgid "mode_help_0"
+msgstr ""
+
+#: #
+msgid "mode_help_1"
+msgstr ""
+
+#: #
+msgid "mode_help_2"
+msgstr ""
+
+#: #
+msgid "mode_help_3"
+msgstr ""
+
+#: #
+msgid "mode_help_4"
+msgstr ""
+
+#: #
+msgid "mode_help_5"
+msgstr ""
+"刚好凑成21点就可过关\n"
+"\n"
+"点数说明：\n"
+"[FF0000]K,Q,J[-]和[FF0000]10[-]牌都算作[FF0000]10[-]点\n"
+"[FF0000]A[-]牌既可算作[FF0000]1[-]点也可算作[FF0000]11[-]点\n"
+"[FF0000]2[-]至[FF0000]9[-]牌均按其[FF0000]面值[-]计算\n"
+"黑块不算错"
+
+#: #
+msgid "mode_help_6"
+msgstr ""
+
+#: #
+msgid "mode_help_7"
+msgstr ""
+
+#: #
+msgid "mode_type_name_0"
+msgstr "挑战"
+
+#: #
+msgid "mode_type_name_1"
+msgstr "冲关"
+
+#: #
+msgid "mode_type_name_2"
+msgstr "地狱"
+
+#: #
+msgid "mode_type_desc_0"
+msgstr "心若在，梦就在，只不过是重头再来！"
+
+#: #
+msgid "mode_type_desc_1"
+msgstr "人生只能前进，不能后退！"
+
+#: #
+msgid "mode_type_desc_2"
+msgstr "我不入地狱，谁入地狱！"
+
+#: #
+msgid "unlock"
+msgstr "解锁"
+
+#: #
+msgid "unlock_inverse"
+msgstr "经典挑战达到{0}分自动解锁"
+
+#: #
+msgid "rescue_title"
+msgstr "原地复活？"
+
+#: #
+msgid "cost_coin"
+msgstr "消耗 {0}"
+
+#: #
+msgid "need_coin"
+msgstr "需要 {0}"
+
+#: #
+msgid "get_coin"
+msgstr "获得 {0}"
+
+#: #
+msgid "daily_reward_menu_title"
+msgstr "每日奖励"
+
+#: #
+msgid "day_0"
+msgstr "第一天"
+
+#: #
+msgid "day_1"
+msgstr "第二天"
+
+#: #
+msgid "day_2"
+msgstr "第三天"
+
+#: #
+msgid "day_3"
+msgstr "第四天"
+
+#: #
+msgid "day_4"
+msgstr "第五天"
+
+#: #
+msgid "day_5"
+msgstr "第六天"
+
+#: #
+msgid "day_6"
+msgstr "第七天"
+
+#: #
+msgid "confirm_daily_reward"
+msgstr "已阅"
+
+#: #
+msgid "block_usage"
+msgstr "（可解锁模式和复活）"
+
+#: #
+msgid "pass_level_failed"
+msgstr "冲关失败"
+
+#: #
+msgid "best_score"
+msgstr "最佳:{0}"
+
+#: #
+msgid "wave"
+msgstr "第{0}关"
+
+#: #
+msgid "game_score"
+msgstr "当前分数:{0}"
+
+#: #
+msgid "game_hp"
+msgstr "生命"
+
+#: #
+msgid "game_lifetime"
+msgstr "时间"
+
+#: #
+msgid "new_record"
+msgstr "新记录！"
+
+#: #
+msgid "history_best"
+msgstr "历史最高"
+
+#: #
+msgid "current_score"
+msgstr "本次成绩"
+
+#: #
+msgid "share"
+msgstr "分享"
+
+#: #
+msgid "sns"
+msgstr "社区"
+
+#: #
+msgid "leaderboard"
+msgstr "排名"
+
+#: #
+msgid "top_rank"
+msgstr "前十名"
+
+#: #
+msgid "my_rank"
+msgstr "我的排名"
+
+#: #
+msgid "login_to_view_rank"
+msgstr "登录后查看排名"
+
+#: #
+msgid "restart"
+msgstr "重来"
+
+#: #
+msgid "main"
+msgstr "主页"
+
+#: #
+msgid "pause"
+msgstr "暂停"
+
+#: #
+msgid "continue"
+msgstr "继续"
+
+#: #
+msgid "back"
+msgstr "返回"
+
+#: #
+msgid "target_color"
+msgstr "目标"
+
+#: #
+msgid "ok"
+msgstr "好"
+
+#: #
+msgid "yes"
+msgstr "是"
+
+#: #
+msgid "no"
+msgstr "否"
+
+#: #
+msgid "cancel"
+msgstr "取消"
+
+#: #
+msgid "not_enough_coin"
+msgstr "白块儿数量不足！"
+
+#: #
+msgid "confirm_unlock_mode_title"
+msgstr "解锁此模式？"
+
+#: #
+msgid "confirm_quit_game"
+msgstr "不再玩一会了？"
+
+#: #
+msgid "new"
+msgstr "新"
+
+#: #
+msgid "local_notification_msg"
+msgstr "没有发现你的记忆力在衰退吗？还不快来加强训练了！"
+
+#: #
+msgid "game_share_text"
+msgstr "来和我一起挑战#最强大脑#吧 ——《记住白块儿》 ，很好玩！"
+
+#: #
+msgid "result_share_text"
+msgstr "{0}分，求超越！ 挑战我的 #最强大脑# —— 《记住白块儿》！"
+
+#: #
+msgid "shop_menu_title"
+msgstr "商店"
+
+#: #
+msgid "music_menu_title"
+msgstr "音乐"
+
+#: #
+msgid "background_sound"
+msgstr "环境音"
+
+#: #
+msgid "game_music"
+msgstr "乐曲"
+
+#: #
+msgid "bgm_music_name_0"
+msgstr "清脆鸟鸣"
+
+#: #
+msgid "bgm_music_name_1"
+msgstr "温馨篝火"
+
+#: #
+msgid "bgm_music_name_2"
+msgstr "静谧丛林"
+
+#: #
+msgid "bgm_music_name_3"
+msgstr "潺潺清泉"
+
+#: #
+msgid "bgm_music_name_4"
+msgstr "涛涛海浪"
+
+#: #
+msgid "bgm_music_name_5"
+msgstr "飞流湍瀑"
+
+#: #
+msgid "game_music_name_0"
+msgstr "小星星"
+
+#: #
+msgid "game_music_name_1"
+msgstr "铃儿响叮当"
+
+#: #
+msgid "game_music_name_2"
+msgstr "欢乐颂"
+
+#: #
+msgid "game_music_name_3"
+msgstr "玛丽有个小羊羔"
+
+#: #
+msgid "game_music_name_4"
+msgstr "小步舞曲"
+
+#: #
+msgid "game_music_name_5"
+msgstr "茉莉花"
+
+#: #
+msgid "game_music_name_6"
+msgstr "小毛驴"
+
+#: #
+msgid "confirm_activate_game_title"
+msgstr "激活游戏"
+
+#: #
+msgid "confirm_activate_game_content"
+msgstr ""
+"解锁经典模式\n"
+"激活反转模式（需分数解锁）\n"
+"开启模式解锁\n"
+"开启礼包\n"
+"开启复活\n"
+"赠送{0}个白块货币！"
+
+#: #
+msgid "trial"
+msgstr "试玩"
+
+#: #
+msgid "trial_end_when_not_activated_title"
+msgstr "试玩结束"
+
+#: #
+msgid "trial_end_when_not_activated_msg"
+msgstr "激活游戏，无限挑战！"
+
+#: #
+msgid "trial_end_when_activated_title"
+msgstr "试玩结束"
+
+#: #
+msgid "trial_end_when_activated_msg"
+msgstr ""
+"没玩够？\n"
+"立刻解锁({0}白块儿)即可无限畅玩！"
+
+#: #
+msgid "trial_end_when_coin_not_enough_unlock"
+msgstr ""
+"没玩够？\n"
+"解锁({0}白块儿)即可无限畅玩！去商店补充？"
+
+#: #
+msgid "trial_end_of_inverse_content"
+msgstr ""
+"还没玩够？\n"
+"经典挑战达到{0}分自动解锁本模式！"
+
+#: #
+msgid "gift"
+msgstr "礼"
+
+#: #
+msgid "vip"
+msgstr "VIP"
+
+#: #
+msgid "confirm_buy_vip_gift_title"
+msgstr "购买【VIP特权】?"
+
+#: #
+msgid "vip_gift_desc"
+msgstr ""
+"游戏产出和领取礼包时奖励双倍\n"
+"并赠送{0}"
+
+#: #
+msgid "shop_item_desc"
+msgstr "获得{0}"
+
+#: #
+msgid "receive_gift"
+msgstr "恭喜你获得了礼包"
+
+#: #
+msgid "gift_menu_title"
+msgstr "时光礼包"
+
+#: #
+msgid "receive"
+msgstr "领取"
+
+#: #
+msgid "gift_available"
+msgstr "领"
+
+#: #
+msgid "please_wait"
+msgstr "敬请期待…"
+
+#: #
+msgid "help"
+msgstr "帮助"
+
+#: #
+msgid "recommend_mode_title"
+msgstr "试试新玩法？【{0}】"
+
+#: #
+msgid "unlock_condition"
+msgstr "{0}白块解锁"
+
+#: #
+msgid "unlock_condition_not_enough"
+msgstr "{0}个白块儿可解锁，去商店买点?"
+
+#: #
+msgid "gift_notification_title"
+msgstr "记住白块儿"
+
+#: #
+msgid "gift_notification_content"
+msgstr "如此大礼，还不快来试试手气！"
+
+#: #
+msgid "gift_ready_title"
+msgstr "收礼了！"
+
+#: #
+msgid "gift_ready_content"
+msgstr "礼品已到，快去领取！"
+
+#: #
+msgid "pay_failed"
+msgstr "支付失败"
+
+#: #
+msgid "pay_cancel"
+msgstr "取消支付"
+
+#: #
+msgid "more_game"
+msgstr "更多游戏"
+
+#: #
+msgid "about"
+msgstr "关于"
+
+#: #
+msgid "about_content"
+msgstr ""
+"游戏交流\n"
+"\n"
+" - 微博：@IQ游戏汇\n"
+" - QQ群：369058082 \n"
+" - 百度贴吧：记住白块儿\n"
+"\n"
+"提示：分享到社区可获得白块儿奖励！\n"
+
+#: #
+msgid "buy"
+msgstr "购买"
+
+#: #
+msgid "restore"
+msgstr "恢复购买"
+
+#: #
+msgid "purchasing"
+msgstr "处理中"
+
+#: #
+msgid "not_enough_coin_title"
+msgstr "小提示"
+
+#: #
+msgid "not_enough_coin_for_rescue"
+msgstr "{0}个白块儿可复活，去商店补充点吧！"
+
+#: #
+msgid "not_enough_coin_for_unlock_recommend"
+msgstr "还差{0}个白块儿可解锁，去商店补充点吧！"
+
+#: #
+msgid "go_to_shop"
+msgstr "去商店"
+
+#: #
+msgid "share_bonus_title"
+msgstr "获得奖励"
+
+#: #
+msgid "share_bonus_content"
+msgstr "感谢您的分享！您将获得{0}个白块儿奖励。"
+
+#: #
+msgid "dual_mode_winner"
+msgstr "方胜利"
+
+#: #
+msgid "achieve_desc"
+msgstr "超过了{0}%的玩家！"
+
+#: #
+msgctxt "#"
+msgid ""
+msgstr ""
